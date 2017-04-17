@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/layout/activity_gos_check_device_workwifi.xml",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/layout/activity_gos_check_device_workwifi.xml"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/layout/alert_gos_set_device_info.xml",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/layout/alert_gos_set_device_info.xml"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/layout/item_gos_mode_list.xml",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/layout/item_gos_mode_list.xml"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/layout/activity_gos_forget_password.xml",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/layout/activity_gos_forget_password.xml"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/layout/actvity_gos_device_reset.xml",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/layout/actvity_gos_device_reset.xml"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/layout/activity_gos_config_failed.xml",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/layout/activity_gos_config_failed.xml"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/layout/activity_select_music.xml",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/layout/activity_select_music.xml"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/layout/alert_gos_wifi_list.xml",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/layout/alert_gos_wifi_list.xml"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/layout/activity_gos_settings.xml",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/layout/activity_gos_settings.xml"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/layout/activity_gos_about.xml",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/layout/activity_gos_about.xml"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/layout/alert_gos_new_device.xml",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/layout/alert_gos_new_device.xml"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/layout/activity_gos_choose_device.xml",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/layout/activity_gos_choose_device.xml"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/layout/activity_gos_config_countdown.xml",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/layout/activity_gos_config_countdown.xml"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/layout/activity_gos_capture.xml",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/layout/activity_gos_capture.xml"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/layout/activity_gos_register_user.xml",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/layout/activity_gos_register_user.xml"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/layout/activity_gos_device_control.xml",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/layout/activity_gos_device_control.xml"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/layout/alert_gos_no_id.xml",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/layout/alert_gos_no_id.xml"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/layout/activity_gos_airlink_choose_device_workwifi.xml",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/layout/activity_gos_airlink_choose_device_workwifi.xml"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/layout/activity_gos_modelist.xml",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/layout/activity_gos_modelist.xml"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/layout/activity_gos_colorlist.xml",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/layout/activity_gos_colorlist.xml"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/layout/alert_gos_logout.xml",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/layout/alert_gos_logout.xml"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/layout/jpush_popwin_layout.xml",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/layout/jpush_popwin_layout.xml"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/layout/view_gos_title_listview.xml",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/layout/view_gos_title_listview.xml"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/layout/activity_gos_air.xml",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/layout/activity_gos_air.xml"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/layout/actvity_gos_airlink_ready.xml",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/layout/actvity_gos_airlink_ready.xml"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/layout/item_gos_wifi_list.xml",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/layout/item_gos_wifi_list.xml"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/layout/activity_gos_airlink_config_countdown.xml",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/layout/activity_gos_airlink_config_countdown.xml"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/layout/activity_gos_smartlight.xml",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/layout/activity_gos_smartlight.xml"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/layout/jpush_webview_layout.xml",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/layout/jpush_webview_layout.xml"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/layout/activity_music_light.xml",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/layout/activity_music_light.xml"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/layout/item_gos_device_list.xml",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/layout/item_gos_device_list.xml"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/layout/view_gos_notification.xml",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/layout/view_gos_notification.xml"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/layout/alert_gos_empty.xml",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/layout/alert_gos_empty.xml"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/layout/item_music_file.xml",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/layout/item_music_file.xml"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/layout/activity_gos_device_ready.xml",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/layout/activity_gos_device_ready.xml"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/layout/item_gos_colors_list.xml",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/layout/item_gos_colors_list.xml"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/layout/alert_gos_quit.xml",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/layout/alert_gos_quit.xml"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/layout/activity_gos_device_list.xml",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/layout/activity_gos_device_list.xml"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/layout/activity_gos_user_login.xml",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/layout/activity_gos_user_login.xml"
+    }
+]

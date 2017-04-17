@@ -1,0 +1,206 @@
+[
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/select.png",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable-xhdpi/select.png"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/back_bt.png",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable-xhdpi/back_bt.png"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/qq.png",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable-xhdpi/qq.png"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/failsoft.png",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable-xhdpi/failsoft.png"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/comd_top.png",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable-xhdpi/comd_top.png"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/right_icon.png",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable-xhdpi/right_icon.png"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/button_visible.png",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable-xhdpi/button_visible.png"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/comd1_home_icon_light.png",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable-xhdpi/comd1_home_icon_light.png"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/logo3.png",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable-xhdpi/logo3.png"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/button_more.png",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable-xhdpi/button_more.png"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/comd1_light_sewen_bg2.png",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable-xhdpi/comd1_light_sewen_bg2.png"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/comd1_more_icon_name.png",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable-xhdpi/comd1_more_icon_name.png"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/button_setting.png",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable-xhdpi/button_setting.png"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/noselect.png",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable-xhdpi/noselect.png"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/mydefault.png",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable-xhdpi/mydefault.png"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/add.png",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable-xhdpi/add.png"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/sms.png",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable-xhdpi/sms.png"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/button_refresh.png",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable-xhdpi/button_refresh.png"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/comd1_home_btn_color_temperature.png",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable-xhdpi/comd1_home_btn_color_temperature.png"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/splash.png",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable-xhdpi/splash.png"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/button_music_normal.png",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable-xhdpi/button_music_normal.png"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/back_bt_.png",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable-xhdpi/back_bt_.png"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/login_password.png",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable-xhdpi/login_password.png"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/sub.png",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable-xhdpi/sub.png"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/wifi_icon.png",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable-xhdpi/wifi_icon.png"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/phone.png",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable-xhdpi/phone.png"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/comd1_btn_menu.png",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable-xhdpi/comd1_btn_menu.png"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/button_invisible.png",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable-xhdpi/button_invisible.png"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/comd1_home_icon_brightness.png",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable-xhdpi/comd1_home_icon_brightness.png"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/comd1_home_icon_tab.png",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable-xhdpi/comd1_home_icon_tab.png"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/button_sure.png",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable-xhdpi/button_sure.png"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/test_comd1_light_sewen_bg2.png",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable-xhdpi/test_comd1_light_sewen_bg2.png"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/wechat.png",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable-xhdpi/wechat.png"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/checkmark.png",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable-xhdpi/checkmark.png"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/comd1_home_bnt_on.png",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable-xhdpi/comd1_home_bnt_on.png"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/nodevice.png",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable-xhdpi/nodevice.png"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/button_blue_long.png",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable-xhdpi/button_blue_long.png"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/button_not_sure.png",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable-xhdpi/button_not_sure.png"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/comd1_more_icon_timer.png",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable-xhdpi/comd1_more_icon_timer.png"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/button_back.png",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable-xhdpi/button_back.png"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/arrow.png",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable-xhdpi/arrow.png"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/device_icon.png",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable-xhdpi/device_icon.png"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/comd1_more_icon_schedule.png",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable-xhdpi/comd1_more_icon_schedule.png"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/comd1_home_bnt_off.png",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable-xhdpi/comd1_home_bnt_off.png"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/about_icon.png",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable-xhdpi/about_icon.png"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/barcode_laser_line.png",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable-xhdpi/barcode_laser_line.png"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/mymyshoft.png",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable-xhdpi/mymyshoft.png"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/comd1_icon_return.png",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable-xhdpi/comd1_icon_return.png"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/barcode_frame.png",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable-xhdpi/barcode_frame.png"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/comd1_home_btn_color.png",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable-xhdpi/comd1_home_btn_color.png"
+    }
+]

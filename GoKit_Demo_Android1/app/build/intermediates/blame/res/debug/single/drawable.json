@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable/selector_power.xml",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable/selector_power.xml"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable/background.xml",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable/background.xml"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable/resetsoftap.gif",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable/resetsoftap.gif"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable/alert_bottom_shape.xml",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable/alert_bottom_shape.xml"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable/alert_top_shape.xml",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable/alert_top_shape.xml"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable/alert_bottom_right_shape.xml",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable/alert_bottom_right_shape.xml"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable/devicelist_item_selector.xml",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable/devicelist_item_selector.xml"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable/border_layer_list.xml",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable/border_layer_list.xml"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable/img_bg_shape.xml",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable/img_bg_shape.xml"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable/alert_bottom_left_shape.xml",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable/alert_bottom_left_shape.xml"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable/checkbox_hook_selector.xml",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable/checkbox_hook_selector.xml"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable/airlink.gif",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable/airlink.gif"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable/round_rect.xml",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable/round_rect.xml"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable/selector_mode.xml",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable/selector_mode.xml"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable/checkbox_laws_selector.xml",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable/checkbox_laws_selector.xml"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable/btn_next_shape_gray.xml",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable/btn_next_shape_gray.xml"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable/btn_getcode_shape_gray.xml",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable/btn_getcode_shape_gray.xml"
+    }
+]

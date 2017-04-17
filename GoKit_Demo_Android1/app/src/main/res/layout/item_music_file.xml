@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:id="@+id/music_info"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:paddingBottom="15dp"
+        android:paddingTop="15dp">
+
+        <ImageView
+            android:id="@+id/iv_play_state"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:src="@drawable/button_music_normal" />
+
+        <TextView
+            android:id="@+id/music_folder_name"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="4"
+            android:gravity="left"
+            android:maxLines="1"
+            android:text="本地声音文件名称"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/music_duration"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="9dp"
+            android:layout_weight="1"
+            android:gravity="right"
+            android:text="0:00"
+            android:textColor="#848484"
+            android:textSize="14sp" />
+    </LinearLayout>
+
+</RelativeLayout>

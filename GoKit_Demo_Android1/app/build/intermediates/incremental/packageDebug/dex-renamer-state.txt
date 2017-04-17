@@ -1,0 +1,4 @@
+#Sun Apr 16 21:53:45 CST 2017
+base.0=/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/richpush_btn_selector.xml",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable-hdpi/richpush_btn_selector.xml"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/splashbackgroud.png",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable-hdpi/splashbackgroud.png"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_richpush_actionbar_divider.png",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable-hdpi/ic_richpush_actionbar_divider.png"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_richpush_actionbar_back.png",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable-hdpi/ic_richpush_actionbar_back.png"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/gizwitslogo.png",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/drawable-hdpi/gizwitslogo.png"
+    }
+]

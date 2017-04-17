@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/menu/devicelist_logout.xml",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/menu/devicelist_logout.xml"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/menu/devicecontrol_lan.xml",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/menu/devicecontrol_lan.xml"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/menu/devicelist_login.xml",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/menu/devicelist_login.xml"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/menu/menu_music_light.xml",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/menu/menu_music_light.xml"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/menu/smartlight.xml",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/menu/smartlight.xml"
+    },
+    {
+        "merged": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/build/intermediates/res/merged/debug/menu/devicecontrol.xml",
+        "source": "/home/zxd/projects/SmartLight/GoKit_Demo_Android1/app/src/main/res/menu/devicecontrol.xml"
+    }
+]

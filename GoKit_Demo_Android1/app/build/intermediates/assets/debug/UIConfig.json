@@ -1,0 +1,23 @@
+﻿{
+    "app_id":"ae03861407fa42f282e98521f7399739",
+    "app_secret":"e9e45582395a49f99f49c79703c31ffb",
+    "product_key":["22199b1bd7844020b73dc0ccfc6793e9","d5eae2ad37ad47ee82b7da93f01efaec"],
+    "wifi_type_select":true,
+    "tencent_app_id":"your_tencent_app_id",
+    "wechat_app_id":"your_wechat_app_id",
+    "wechat_app_secret":"your_wechat_app_secret",
+    "push_type":0,
+    "bpush_app_key":"your_bpush_api_key",
+    "openAPIDomain":"",
+    "siteDomain":"",
+    "pushDomain":"",
+    "buttonColor":"F8DC26",
+    "buttonTextColor":"000000",
+    "navigationBarColor":"F8DC26",
+    "navigationBarTextColor":"000000",
+    "configProgressViewColor":"000000",
+    "addDeviceTitle":"",
+    "qq": false,
+    "wechat": false,
+    "anonymousLogin": true
+}
