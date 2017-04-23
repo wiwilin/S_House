@@ -37,13 +37,14 @@
 
 #define   GOKIT_REPORT_TIME                     10 // 20s
 #define   PASSCODE_TIME                         0
-
+#define   DEBUG                                 1
 
 #define	  PRO_VER       "00000004"
 #define	  P0_VER        "00000004"
 #define	  HARD_VER      "00000001"
 #define	  SOFT_VER      "00000001"
 #define   PRODUCT_KEY   "9a7e0f676c2846ad98eda57dc69f7899"
+
 
 
 
