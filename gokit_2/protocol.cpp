@@ -82,10 +82,25 @@ void  CmdSendMcuP0(uint8_t *buf)
         m_m2w_mcuStatus.status_w.cmd_byte = (m_m2w_mcuStatus.status_w.cmd_byte | 0x06);
       }
     }
+    //add
+    tmp_cmd_buf = (m_w2m_controlMcu.status_w.cmd_byte & 0x18) >> 3;
+   // if(m_w2m_controlMcu.cmd_tag & 0x04 == 0x04)
+      if(tmp_cmd_buf == 0x00)
+      
+      if((tmp_cmd_buf == 0x00)|(tmp_cmd_buf == 0x02))
+    {  if(m_m2w_mcuStatus.status_r.ir_status & 0x01)
+       {
+         gokit_setColorRGB(254, 0, 0);
+         m_m2w_mcuStatus.status_w.cmd_byte = (m_m2w_mcuStatus.status_w.cmd_byte | 0x01); 
+       }
+       #if(DEBUG==1)
+       Serial.println("MCU state change!!!");
+       #endif
+  }
     
     tmp_cmd_buf = (m_m2w_mcuStatus.status_w.cmd_byte & 0x06) >> 1;
 
-    if((m_w2m_controlMcu.cmd_tag & 0x04) == 0x04)
+    if((m_w2m_controlMcu.cmd_tag & 0x08) == 0x08)
     {
 
       if(tmp_cmd_buf == 0x00){
@@ -94,7 +109,7 @@ void  CmdSendMcuP0(uint8_t *buf)
       }
     }
     
-    if((m_w2m_controlMcu.cmd_tag & 0x08) == 0x08)
+    if((m_w2m_controlMcu.cmd_tag & 0x10) == 0x10)
     {
       //µ±LED×éºÏÑÕÉ«ÎªÓÃ»§×Ô¶¨ÒåÊ±ÉúÐ§
       if(tmp_cmd_buf == 0x00){
@@ -104,7 +119,7 @@ void  CmdSendMcuP0(uint8_t *buf)
     }
 
     //¿ØÖÆ LED B
-    if((m_w2m_controlMcu.cmd_tag & 0x10) == 0x10)
+    if((m_w2m_controlMcu.cmd_tag & 0x20) == 0x20)
     {
       //µ±LED×éºÏÑÕÉ«ÎªÓÃ»§×Ô¶¨ÒåÊ±ÉúÐ§
       if(tmp_cmd_buf == 0x00){
@@ -114,7 +129,7 @@ void  CmdSendMcuP0(uint8_t *buf)
     }
     
     //¿ØÖÆµç»ú
-    if((m_w2m_controlMcu.cmd_tag & 0x20) == 0x20)
+    if((m_w2m_controlMcu.cmd_tag & 0x40) == 0x40)
     {
       gokit_motorstatus(m_w2m_controlMcu.status_w.motor_speed);
       m_m2w_mcuStatus.status_w.motor_speed = m_w2m_controlMcu.status_w.motor_speed;
