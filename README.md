@@ -1,1 +1,2 @@
-# Smart_House
+# IOT home automation system
+
